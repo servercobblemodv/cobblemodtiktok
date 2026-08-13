@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "biomesoplenty:spanish_moss_plant": 1,
+      "biomesoplenty:spanish_moss": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3817,
+      "minecraft:time_since_rest": 4075,
+      "minecraft:fall_one_cm": 2475,
+      "minecraft:walk_one_cm": 3881,
+      "minecraft:total_world_time": 4075,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 11529,
+      "minecraft:crouch_one_cm": 43,
+      "minecraft:sneak_time": 6,
+      "minecraft:play_time": 4075,
+      "minecraft:jump": 69,
+      "minecraft:time_since_death": 4075
+    }
+  },
+  "DataVersion": 4790
+}
